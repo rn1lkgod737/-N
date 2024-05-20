@@ -1,0 +1,4 @@
+git branch -m pgpk PATH
+git fetch origin
+git branch -u origin/PATH PATH
+git remote set-head origin -a
